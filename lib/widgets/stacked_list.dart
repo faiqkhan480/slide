@@ -5,8 +5,8 @@ import 'package:slide/utils/constants.dart';
 
 class StackedList extends StatelessWidget {
   final List<Color> _colors = Colors.primaries;
-  static const _minHeight = 16.0;
-  static const _maxHeight = 120.0;
+  static const _minHeight = 50.0;
+  static const _maxHeight = 200.0;
   static const _radius = 50.0;
 
   @override
